@@ -1,0 +1,9 @@
+{
+  "tg_token": "",
+  "tg_url": "https://api.telegram.org/bot",
+  "deploy_service_domain": "https://f39945fa4028.ngrok.io",
+  "tg_api_endpoints": {
+    "set_follow_for_updates": "setWebhook",
+    "send_message_to_client": "sendMessage"
+  }
+}
